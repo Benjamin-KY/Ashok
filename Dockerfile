@@ -1,4 +1,4 @@
-FROM python:3.8.6-alpine3.11
+FROM python:3.12.0a5-slim
 
 LABEL name Ashok
 LABEL src "https://github.com/ankitdobhal/Ashok"
